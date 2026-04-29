@@ -1,0 +1,8 @@
+{
+  "accessToken": "71b1c28e04120d2f0b8117b6c8dae82b298b5282",
+  "refreshToken": "916605fc800c0d2f7ec90da5428b6acf91865178",
+  "tokenType": "Bearer",
+  "scope": "basic_info,console",
+  "expiresAt": "2026-04-28T07:19:27.902Z",
+  "obtainedAt": "2026-04-28T05:19:28.902Z"
+}
